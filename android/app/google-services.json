@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562149759609",
+    "project_id": "rental-app-cfb94",
+    "storage_bucket": "rental-app-cfb94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562149759609:android:ce540459aaa75da64892a8",
+        "android_client_info": {
+          "package_name": "com.example.rental_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562149759609-np67jsf10caehnfer82dom2v913uop9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdHuhrblR9-IcKBTpORI5QXFka9h3X4y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562149759609-np67jsf10caehnfer82dom2v913uop9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
